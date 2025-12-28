@@ -26,10 +26,3 @@ I am a final-year **BS Artificial Intelligence** student specializing in **Agent
 
 ---
 
-# 📊 GitHub Analytics
-![](https://github-readme-stats.vercel.app/api?username=HunainMaqbool&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=HunainMaqbool&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HunainMaqbool&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=HunainMaqbool&icon=0&color=1)](https://visitcount.itsvg.in)
